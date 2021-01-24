@@ -1,0 +1,12 @@
+/Users/ilyaderezovskiy/Projects/delegate_hw/delegate_hw/bin/Debug/netcoreapp3.1/delegate_hw.deps.json
+/Users/ilyaderezovskiy/Projects/delegate_hw/delegate_hw/bin/Debug/netcoreapp3.1/delegate_hw.runtimeconfig.json
+/Users/ilyaderezovskiy/Projects/delegate_hw/delegate_hw/bin/Debug/netcoreapp3.1/delegate_hw.runtimeconfig.dev.json
+/Users/ilyaderezovskiy/Projects/delegate_hw/delegate_hw/bin/Debug/netcoreapp3.1/delegate_hw.dll
+/Users/ilyaderezovskiy/Projects/delegate_hw/delegate_hw/bin/Debug/netcoreapp3.1/delegate_hw.pdb
+/Users/ilyaderezovskiy/Projects/delegate_hw/delegate_hw/obj/Debug/netcoreapp3.1/delegate_hw.csprojAssemblyReference.cache
+/Users/ilyaderezovskiy/Projects/delegate_hw/delegate_hw/obj/Debug/netcoreapp3.1/delegate_hw.AssemblyInfoInputs.cache
+/Users/ilyaderezovskiy/Projects/delegate_hw/delegate_hw/obj/Debug/netcoreapp3.1/delegate_hw.AssemblyInfo.cs
+/Users/ilyaderezovskiy/Projects/delegate_hw/delegate_hw/obj/Debug/netcoreapp3.1/delegate_hw.csproj.CoreCompileInputs.cache
+/Users/ilyaderezovskiy/Projects/delegate_hw/delegate_hw/obj/Debug/netcoreapp3.1/delegate_hw.dll
+/Users/ilyaderezovskiy/Projects/delegate_hw/delegate_hw/obj/Debug/netcoreapp3.1/delegate_hw.pdb
+/Users/ilyaderezovskiy/Projects/delegate_hw/delegate_hw/obj/Debug/netcoreapp3.1/delegate_hw.genruntimeconfig.cache
