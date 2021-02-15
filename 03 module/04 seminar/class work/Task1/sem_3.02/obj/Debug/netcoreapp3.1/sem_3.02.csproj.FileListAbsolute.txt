@@ -1,0 +1,12 @@
+/Users/ilyaderezovskiy/Projects/sem_3.02/sem_3.02/bin/Debug/netcoreapp3.1/sem_3.02.deps.json
+/Users/ilyaderezovskiy/Projects/sem_3.02/sem_3.02/bin/Debug/netcoreapp3.1/sem_3.02.runtimeconfig.json
+/Users/ilyaderezovskiy/Projects/sem_3.02/sem_3.02/bin/Debug/netcoreapp3.1/sem_3.02.runtimeconfig.dev.json
+/Users/ilyaderezovskiy/Projects/sem_3.02/sem_3.02/bin/Debug/netcoreapp3.1/sem_3.02.dll
+/Users/ilyaderezovskiy/Projects/sem_3.02/sem_3.02/bin/Debug/netcoreapp3.1/sem_3.02.pdb
+/Users/ilyaderezovskiy/Projects/sem_3.02/sem_3.02/obj/Debug/netcoreapp3.1/sem_3.02.csprojAssemblyReference.cache
+/Users/ilyaderezovskiy/Projects/sem_3.02/sem_3.02/obj/Debug/netcoreapp3.1/sem_3.02.AssemblyInfoInputs.cache
+/Users/ilyaderezovskiy/Projects/sem_3.02/sem_3.02/obj/Debug/netcoreapp3.1/sem_3.02.AssemblyInfo.cs
+/Users/ilyaderezovskiy/Projects/sem_3.02/sem_3.02/obj/Debug/netcoreapp3.1/sem_3.02.csproj.CoreCompileInputs.cache
+/Users/ilyaderezovskiy/Projects/sem_3.02/sem_3.02/obj/Debug/netcoreapp3.1/sem_3.02.dll
+/Users/ilyaderezovskiy/Projects/sem_3.02/sem_3.02/obj/Debug/netcoreapp3.1/sem_3.02.pdb
+/Users/ilyaderezovskiy/Projects/sem_3.02/sem_3.02/obj/Debug/netcoreapp3.1/sem_3.02.genruntimeconfig.cache
