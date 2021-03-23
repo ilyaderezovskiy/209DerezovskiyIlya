@@ -1,0 +1,30 @@
+/Users/ilyaderezovskiy/Projects/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.deps.json
+/Users/ilyaderezovskiy/Projects/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.runtimeconfig.json
+/Users/ilyaderezovskiy/Projects/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.runtimeconfig.dev.json
+/Users/ilyaderezovskiy/Projects/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.dll
+/Users/ilyaderezovskiy/Projects/hw1/hw1/bin/Debug/netcoreapp3.1/hw1.pdb
+/Users/ilyaderezovskiy/Projects/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.csprojAssemblyReference.cache
+/Users/ilyaderezovskiy/Projects/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.AssemblyInfoInputs.cache
+/Users/ilyaderezovskiy/Projects/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.AssemblyInfo.cs
+/Users/ilyaderezovskiy/Projects/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.csproj.CoreCompileInputs.cache
+/Users/ilyaderezovskiy/Projects/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.dll
+/Users/ilyaderezovskiy/Projects/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.pdb
+/Users/ilyaderezovskiy/Projects/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.genruntimeconfig.cache
+/Users/ilyaderezovskiy/Projects/hw1/hw1/bin/Debug/netcoreapp3.1/library.dll
+/Users/ilyaderezovskiy/Projects/hw1/hw1/bin/Debug/netcoreapp3.1/library.pdb
+/Users/ilyaderezovskiy/Projects/hw1/hw1/obj/Debug/netcoreapp3.1/hw1.csproj.CopyComplete
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/obj/Debug/netcoreapp3.1/hw1.csprojAssemblyReference.cache
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/obj/Debug/netcoreapp3.1/hw1.AssemblyInfoInputs.cache
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/obj/Debug/netcoreapp3.1/hw1.AssemblyInfo.cs
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/obj/Debug/netcoreapp3.1/hw1.csproj.CoreCompileInputs.cache
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/obj/Debug/netcoreapp3.1/hw1.dll
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/obj/Debug/netcoreapp3.1/hw1.pdb
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/bin/Debug/netcoreapp3.1/hw1.deps.json
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/bin/Debug/netcoreapp3.1/hw1.runtimeconfig.json
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/bin/Debug/netcoreapp3.1/hw1.runtimeconfig.dev.json
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/bin/Debug/netcoreapp3.1/hw1.dll
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/bin/Debug/netcoreapp3.1/hw1.pdb
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/bin/Debug/netcoreapp3.1/library.dll
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/bin/Debug/netcoreapp3.1/library.pdb
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/obj/Debug/netcoreapp3.1/hw1.csproj.CopyComplete
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/hw1/obj/Debug/netcoreapp3.1/hw1.genruntimeconfig.cache

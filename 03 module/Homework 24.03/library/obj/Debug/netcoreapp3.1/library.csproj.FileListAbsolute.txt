@@ -1,0 +1,18 @@
+/Users/ilyaderezovskiy/Projects/hw1/library/obj/Debug/netcoreapp3.1/library.csprojAssemblyReference.cache
+/Users/ilyaderezovskiy/Projects/hw1/library/obj/Debug/netcoreapp3.1/library.AssemblyInfoInputs.cache
+/Users/ilyaderezovskiy/Projects/hw1/library/obj/Debug/netcoreapp3.1/library.AssemblyInfo.cs
+/Users/ilyaderezovskiy/Projects/hw1/library/obj/Debug/netcoreapp3.1/library.csproj.CoreCompileInputs.cache
+/Users/ilyaderezovskiy/Projects/hw1/library/bin/Debug/netcoreapp3.1/library.deps.json
+/Users/ilyaderezovskiy/Projects/hw1/library/bin/Debug/netcoreapp3.1/library.dll
+/Users/ilyaderezovskiy/Projects/hw1/library/bin/Debug/netcoreapp3.1/library.pdb
+/Users/ilyaderezovskiy/Projects/hw1/library/obj/Debug/netcoreapp3.1/library.dll
+/Users/ilyaderezovskiy/Projects/hw1/library/obj/Debug/netcoreapp3.1/library.pdb
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/library/bin/Debug/netcoreapp3.1/library.deps.json
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/library/bin/Debug/netcoreapp3.1/library.dll
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/library/bin/Debug/netcoreapp3.1/library.pdb
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/library/obj/Debug/netcoreapp3.1/library.csprojAssemblyReference.cache
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/library/obj/Debug/netcoreapp3.1/library.AssemblyInfoInputs.cache
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/library/obj/Debug/netcoreapp3.1/library.AssemblyInfo.cs
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/library/obj/Debug/netcoreapp3.1/library.csproj.CoreCompileInputs.cache
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/library/obj/Debug/netcoreapp3.1/library.dll
+/Users/ilyaderezovskiy/Documents/GitHub/209DerezovskiyIlya/03 module/Homework 24.03/library/obj/Debug/netcoreapp3.1/library.pdb
